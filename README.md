@@ -9,3 +9,4 @@ For running:
 ```sh
 $ python hac.py
 ```
+in python 2 console. It uses PyGame.
